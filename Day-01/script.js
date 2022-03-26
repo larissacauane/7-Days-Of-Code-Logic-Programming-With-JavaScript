@@ -1,4 +1,4 @@
-let numeroUm= 1;
+let numeroUm = 1;
 let stringUm = "1";
 let numeroTrinta = 30;
 let stringTrinta = "30";
